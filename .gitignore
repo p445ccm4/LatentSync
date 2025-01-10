@@ -43,3 +43,8 @@ wandb/
 !/latentsync/utils/mask.png
 /checkpoints/
 !/assets/*
+
+inputs
+outputs
+assets
+.gradio
